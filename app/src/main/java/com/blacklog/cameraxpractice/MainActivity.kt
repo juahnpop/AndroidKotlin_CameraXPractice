@@ -16,6 +16,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(view)
 
         binding.textView.text = "GitHub Test2"
-        Toast.makeText(this, "Hello World!", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "Hello World!!", Toast.LENGTH_SHORT).show()
     }
 }
